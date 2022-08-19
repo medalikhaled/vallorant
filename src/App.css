@@ -1,0 +1,8 @@
+.card-container {
+    background: url("./assets/valo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: relative;
+    
+}
